@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tesseract", "Tesseract\Tesseract.csproj", "{92E30210-90AE-4ACC-9156-C8C0695F0EE9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tess.Ocr.Engine", "Tess.Ocr.Engine\Tess.Ocr.Engine.csproj", "{CC8BB04D-3B8D-417D-A358-D5EA7A59EC77}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OCREngineApi", "OCREngineApi\OCREngineApi.csproj", "{FCECA325-D4ED-4BF9-A9CC-72E1399AF173}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92E30210-90AE-4ACC-9156-C8C0695F0EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92E30210-90AE-4ACC-9156-C8C0695F0EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92E30210-90AE-4ACC-9156-C8C0695F0EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92E30210-90AE-4ACC-9156-C8C0695F0EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC8BB04D-3B8D-417D-A358-D5EA7A59EC77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC8BB04D-3B8D-417D-A358-D5EA7A59EC77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC8BB04D-3B8D-417D-A358-D5EA7A59EC77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC8BB04D-3B8D-417D-A358-D5EA7A59EC77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCECA325-D4ED-4BF9-A9CC-72E1399AF173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCECA325-D4ED-4BF9-A9CC-72E1399AF173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCECA325-D4ED-4BF9-A9CC-72E1399AF173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCECA325-D4ED-4BF9-A9CC-72E1399AF173}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD67D311-F814-4696-BC6B-3416E008FDC2}
+	EndGlobalSection
+EndGlobal
